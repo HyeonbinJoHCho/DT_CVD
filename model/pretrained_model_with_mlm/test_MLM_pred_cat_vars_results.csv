@@ -1,0 +1,77 @@
+PRED_FILE,VAR_ID,VAR_NAME,CATEGORY_1,PRED_N,AUROC,UNKNOWN
+test_f.1170.0.0_Categorical_MLM_pred.csv,1170,Getting up in morning,sleep,99330,0.770343680032518,24
+test_f.1180.0.0_Categorical_MLM_pred.csv,1180,Morning/evening person (chronotype),sleep,88733,0.719221107797146,760
+test_f.1190.0.0_Categorical_MLM_pred.csv,1190,Nap during day,sleep,100096,0.717957412426853,72
+test_f.1200.0.0_Categorical_MLM_pred.csv,1200,Sleeplessness / insomnia,sleep,100187,0.704181527990763,12
+test_f.1210.0.0_Categorical_MLM_pred.csv,1210,Snoring,sleep,93227,0.69092522032192,48
+test_f.1220.0.0_Categorical_MLM_pred.csv,1220,Daytime dozing / sleeping,sleep,99735,0.718327475131015,47
+test_f.1239.0.0_Categorical_MLM_pred.csv,1239,Current tobacco smoking,smoking,100230,0.968207050101313,8
+test_f.1249.0.0_Categorical_MLM_pred.csv,1249,Past tobacco smoking,smoking,92179,0.66417687292318,20
+test_f.1259.0.0_Categorical_MLM_pred.csv,1259,Smoking/smokers in household,smoking,91687,0.708411708559666,18
+test_f.1329.0.0_Categorical_MLM_pred.csv,1329,Oily fish intake,diet,99673,0.711383843811391,78
+test_f.134.0.0_Categorical_MLM_pred.csv,134,Number of self-reported cancers,self_reported_medical_conditions,100330,0.645557468581679,0
+test_f.1349.0.0_Categorical_MLM_pred.csv,1349,Processed meat intake,diet,100051,0.7549679878988,59
+test_f.1359.0.0_Categorical_MLM_pred.csv,1359,Poultry intake,diet,100071,0.770723313833156,26
+test_f.1369.0.0_Categorical_MLM_pred.csv,1369,Beef intake,diet,99839,0.781848699410964,145
+test_f.1379.0.0_Categorical_MLM_pred.csv,1379,Lamb/mutton intake,diet,99617,0.809017947123254,203
+test_f.1389.0.0_Categorical_MLM_pred.csv,1389,Pork intake,diet,99646,0.764248743055779,189
+test_f.1408.0.0_Categorical_MLM_pred.csv,1408,Cheese intake,diet,97612,0.670985965946352,134
+test_f.1478.0.0_Categorical_MLM_pred.csv,1478,Salt added to food,diet,100265,0.629809677618677,7
+test_f.1538.0.0_Categorical_MLM_pred.csv,1538,Major dietary changes in the last 5 years,diet,100007,0.772632016676541,11
+test_f.1558.0.0_Categorical_MLM_pred.csv,1558,Alcohol intake frequency.,alcohol,100189,0.831155014448946,27
+test_f.1628.0.0_Categorical_MLM_pred.csv,1628,Alcohol intake versus 10 years previously,alcohol,91291,0.719965754479413,61
+test_f.20117.0.0_Categorical_MLM_pred.csv,20117,Alcohol drinker status,alcohol,100160,0.935510185174923,1
+test_f.2178.0.0_Categorical_MLM_pred.csv,2178,Overall health rating,self_reported_medical_conditions,99799,0.836538525736122,32
+test_f.2188.0.0_Categorical_MLM_pred.csv,2188,"Long-standing illness, disability or infirmity",self_reported_medical_conditions,97811,0.87222523716654,32
+test_f.2306.0.0_Categorical_MLM_pred.csv,2306,Weight change compared with 1 year ago,self_reported_medical_conditions,98404,0.713041931941797,56
+test_f.2463.0.0_Categorical_MLM_pred.csv,2463,Fractured/broken bones in last 5 years,self_reported_medical_conditions,99736,0.638797441908356,7
+test_f.6153.0_1_Categorical_MLM_pred.csv,6153,"Medication for cholesterol, blood pressure, diabetes, or take exogenous hormones",medication,100482,0.995778485577351,0
+test_f.6153.0_2_Categorical_MLM_pred.csv,6153,"Medication for cholesterol, blood pressure, diabetes, or take exogenous hormones",medication,100482,0.99559513562202,0
+test_f.6153.0_3_Categorical_MLM_pred.csv,6153,"Medication for cholesterol, blood pressure, diabetes, or take exogenous hormones",medication,100482,0.99457745022599,0
+test_f.6153.0_4_Categorical_MLM_pred.csv,6153,"Medication for cholesterol, blood pressure, diabetes, or take exogenous hormones",medication,100482,0.977739926775833,0
+test_f.6153.0_5_Categorical_MLM_pred.csv,6153,"Medication for cholesterol, blood pressure, diabetes, or take exogenous hormones",medication,100482,0.957689766588127,0
+test_f.6154.0_Categorical_MLM_pred.csv,6154,"Medication for pain relief, constipation, heartburn",medication,100482,0.885024002487751,0
+test_f.6155.0_Categorical_MLM_pred.csv,6155,Vitamin and mineral supplements,medication,100482,0.765396765820281,0
+test_f.6159.0_1_Categorical_MLM_pred.csv,6159,Pain type(s) experienced in last month,self_reported_medical_conditions,100482,0.779789406811549,0
+test_f.6159.0_2_Categorical_MLM_pred.csv,6159,Pain type(s) experienced in last month,self_reported_medical_conditions,100482,0.806624076666262,0
+test_f.6159.0_3_Categorical_MLM_pred.csv,6159,Pain type(s) experienced in last month,self_reported_medical_conditions,100482,0.733763645605205,0
+test_f.6159.0_4_Categorical_MLM_pred.csv,6159,Pain type(s) experienced in last month,self_reported_medical_conditions,100482,0.740764854524145,0
+test_f.6159.0_5_Categorical_MLM_pred.csv,6159,Pain type(s) experienced in last month,self_reported_medical_conditions,100482,0.782386988330715,0
+test_f.6159.0_6_Categorical_MLM_pred.csv,6159,Pain type(s) experienced in last month,self_reported_medical_conditions,100482,0.788037408112377,0
+test_f.6159.0_7_Categorical_MLM_pred.csv,6159,Pain type(s) experienced in last month,self_reported_medical_conditions,100482,0.743487771044498,0
+test_f.6159.0_8_Categorical_MLM_pred.csv,6159,Pain type(s) experienced in last month,self_reported_medical_conditions,100482,0.971078091117281,0
+test_f.6164.0_1_Categorical_MLM_pred.csv,6164,Types of physical activity in last 4 weeks,Physical activity,100482,0.753547738957776,0
+test_f.6164.0_2_Categorical_MLM_pred.csv,6164,Types of physical activity in last 4 weeks,Physical activity,100482,0.823852069261194,0
+test_f.6164.0_3_Categorical_MLM_pred.csv,6164,Types of physical activity in last 4 weeks,Physical activity,100482,0.876693352701744,0
+test_f.6164.0_4_Categorical_MLM_pred.csv,6164,Types of physical activity in last 4 weeks,Physical activity,100482,0.707050938997021,0
+test_f.6164.0_5_Categorical_MLM_pred.csv,6164,Types of physical activity in last 4 weeks,Physical activity,100482,0.748728335953313,0
+test_f.6177.0_1_Categorical_MLM_pred.csv,6177,"Medication for cholesterol, blood pressure or diabetes",medication,100482,0.995427581536814,0
+test_f.6177.0_2_Categorical_MLM_pred.csv,6177,"Medication for cholesterol, blood pressure or diabetes",medication,100482,0.995502137781244,0
+test_f.6177.0_3_Categorical_MLM_pred.csv,6177,"Medication for cholesterol, blood pressure or diabetes",medication,100482,0.995977276659108,0
+test_f.6179.0_Categorical_MLM_pred.csv,6179,Mineral and other dietary supplements,medication,100482,0.771934129603452,0
+test_f.924.0.0_Categorical_MLM_pred.csv,924,Usual walking pace,physical activity,99529,0.810245780502253,59
+test_f.943.0.0_Categorical_MLM_pred.csv,943,Frequency of stair climbing in last 4 weeks,physical activity,98546,0.632240001228144,135
+test_ICD_AIM_Categorical_MLM_pred.csv,,AIM,,100482,0.881332545618438,0
+test_ICD_BLD_Categorical_MLM_pred.csv,,BLD,,100482,0.824730372237938,0
+test_ICD_CANCER_Categorical_MLM_pred.csv,,CANCER,,100482,0.949878033252623,0
+test_ICD_CIRC_Categorical_MLM_pred.csv,,CIRC,,100482,0.944233530532181,0
+test_ICD_GASTRO_Categorical_MLM_pred.csv,,GASTRO,,100482,0.764476834247866,0
+test_ICD_MENTAL_Categorical_MLM_pred.csv,,MENTAL,,100482,0.86016922568273,0
+test_ICD_MET_Categorical_MLM_pred.csv,,MET,,100482,0.954625921591297,0
+test_ICD_NEURO_Categorical_MLM_pred.csv,,NEURO,,100482,0.899534162812118,0
+test_ICD_RENAL_Categorical_MLM_pred.csv,,RENAL,,100482,0.859504884763484,0
+test_ICD_RESP_Categorical_MLM_pred.csv,,RESP,,100482,0.848216605659537,0
+test_MED_ANTIDM_Categorical_MLM_pred.csv,,ANTIDM,,100482,0.999044146550773,0
+test_MED_ANTIDM_CVD_BNF_Categorical_MLM_pred.csv,,ANTIDM,,100482,0.993328151046009,0
+test_MED_ANTIHYP_Categorical_MLM_pred.csv,,ANTIHYP,,100482,0.990150566130478,0
+test_MED_ANTIPLT_Categorical_MLM_pred.csv,,ANTIPLT,,100482,0.944807239496557,0
+test_MED_ANTIPSYCHO_Categorical_MLM_pred.csv,,ANTIPSYCHO,,100482,0.950445764415854,0
+test_MED_ERECTILE_Categorical_MLM_pred.csv,,ERECTILE,,100482,0.942160316319658,0
+test_MED_FEM_HORM_Categorical_MLM_pred.csv,,FEM,,100482,0.980465676931819,0
+test_MED_INSULIN_Categorical_MLM_pred.csv,,INSULIN,,100482,0.999546752087211,0
+test_MED_LIPID_Categorical_MLM_pred.csv,,LIPID,,100482,0.987271642563105,0
+test_MED_MEFORMIN_Categorical_MLM_pred.csv,,MEFORMIN,,100482,0.999146847170348,0
+test_MED_STATIN_Categorical_MLM_pred.csv,,STATIN,,100482,0.998503475064659,0
+test_MED_STEROID_Categorical_MLM_pred.csv,,STEROID,,100482,0.926510085016894,0
+test_RACE_Categorical_MLM_pred.csv,,RACE,,99933,0.800842214979203,5
+test_SEX_Categorical_MLM_pred.csv,,SEX,,100482,0.998277495114418,0

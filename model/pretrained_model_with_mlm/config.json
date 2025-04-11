@@ -1,0 +1,26 @@
+{
+  "_name_or_path": "model/20240531_1_UKB_CVD_MLM/init_model/",
+  "activation": "gelu",
+  "architectures": [
+    "FTTForMaskedLM"
+  ],
+  "attention_dropout": 0.1,
+  "dim": 128,
+  "dropout": 0.1,
+  "hidden_dim": 1024,
+  "initializer_range": 0.02,
+  "max_position_embeddings": 256,
+  "n_heads": 16,
+  "n_layers": 8,
+  "num_hidden_layers": 8,
+  "pad_token_id": 3,
+  "qa_dropout": 0.1,
+  "seq_classif_dropout": 0.2,
+  "sinusoidal_pos_embds": false,
+  "tie_weights_": true,
+  "torch_dtype": "bfloat16",
+  "transformers_version": "4.41.0.dev0",
+  "var_bias_size": 512,
+  "var_weights_size": 512,
+  "vocab_size": 512
+}

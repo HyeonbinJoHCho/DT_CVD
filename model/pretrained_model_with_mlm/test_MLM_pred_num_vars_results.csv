@@ -1,0 +1,70 @@
+PRED_FILE,VAR_ID,VAR_NAME,CATEGORY_1,PRED_N,CORR,RMSE
+test_AGE_Continuous_MLM_pred.csv,,AGE,,100482,0.80308440912132,0.308752293732709
+test_DBP_Continuous_MLM_pred.csv,,DBP,,94493,0.745371146194341,0.117769862923557
+test_f.1160.0.0_Integer_MLM_pred.csv,1160,Sleep duration,sleep,99311,0.349322746158068,0.249119281308848
+test_f.1269.0.0_Integer_MLM_pred.csv,1269,Exposure to tobacco smoke at home,smoking,89466,0.383443083366259,0.117009782231809
+test_f.1279.0.0_Integer_MLM_pred.csv,1279,Exposure to tobacco smoke outside home,smoking,83903,0.301657231319394,0.207342541757205
+test_f.1299.0.0_Integer_MLM_pred.csv,1299,Salad / raw vegetable intake,diet,93755,0.314451002654669,0.336256833370846
+test_f.135.0.0_Integer_MLM_pred.csv,135,Number of self-reported non-cancer illnesses,self_reported_medical_conditions,99844,0.700821348013986,0.276394703894221
+test_f.136.0.0_Integer_MLM_pred.csv,136,"Number of operations, self-reported",self_reported_medical_conditions,99850,0.468267216476793,0.370881243149592
+test_f.137.0.0_Integer_MLM_pred.csv,137,Number of treatments/medications taken,self_reported_medical_conditions,99886,0.820375326109933,0.221202937297863
+test_f.1488.0.0_Integer_MLM_pred.csv,1488,Tea intake,diet,96656,0.291739460311331,0.329907173859056
+test_f.1528.0.0_Integer_MLM_pred.csv,1528,Water intake,diet,92464,0.432128894347419,0.344548041566048
+test_f.21001.0.0_Continuous_MLM_pred.csv,21001,BMI,Physical measures,99569,0.880011295054419,0.127774758734151
+test_f.30000.0.0_Continuous_MLM_pred.csv,30000,White blood cell (leukocyte) count,blood,95507,0.991396570377839,0.039696548996708
+test_f.30010.0.0_Continuous_MLM_pred.csv,30010,Red blood cell (erythrocyte) count,blood,95540,0.992354030264058,0.0367401977198287
+test_f.30020.0.0_Continuous_MLM_pred.csv,30020,Haemoglobin concentration,blood,95535,0.996222021930284,0.0315513162948205
+test_f.30030.0.0_Continuous_MLM_pred.csv,30030,Haematocrit percentage,blood,95557,0.997031220515947,0.0256431382130873
+test_f.30040.0.0_Continuous_MLM_pred.csv,30040,Mean corpuscular volume,blood,95171,0.991899982276721,0.0363442206365465
+test_f.30050.0.0_Continuous_MLM_pred.csv,30050,Mean corpuscular haemoglobin,blood,95084,0.99137894090275,0.0320350663952777
+test_f.30060.0.0_Continuous_MLM_pred.csv,30060,Mean corpuscular haemoglobin concentration,blood,95484,0.988455767263878,0.0354542969174608
+test_f.30070.0.0_Continuous_MLM_pred.csv,30070,Red blood cell (erythrocyte) distribution width,blood,94854,0.569733758809044,0.189942831609673
+test_f.30080.0.0_Continuous_MLM_pred.csv,30080,Platelet count,blood,95391,0.985624396659089,0.0428228248813339
+test_f.30090.0.0_Continuous_MLM_pred.csv,30090,Platelet crit,blood,95383,0.987611233606136,0.040125062286151
+test_f.30100.0.0_Continuous_MLM_pred.csv,30100,Mean platelet (thrombocyte) volume,blood,95479,0.985744808825552,0.0455884795390854
+test_f.30110.0.0_Continuous_MLM_pred.csv,30110,Platelet distribution width,blood,95405,0.536019267356217,0.211616952056921
+test_f.30120.0.0_Continuous_MLM_pred.csv,30120,Lymphocyte count,blood,95365,0.995303219246883,0.0215421298840817
+test_f.30130.0.0_Continuous_MLM_pred.csv,30130,Monocyte count,blood,95315,0.984608779935222,0.0393841887466222
+test_f.30140.0.0_Continuous_MLM_pred.csv,30140,Neutrophill count,blood,95122,0.992659928159215,0.0366897880865503
+test_f.30150.0.0_Continuous_MLM_pred.csv,30150,Eosinophill count,blood,94888,0.979576305874195,0.0649962600650603
+test_f.30160.0.0_Continuous_MLM_pred.csv,30160,Basophill count,blood,95033,0.909026594804004,0.124585653018759
+test_f.30170.0.0_Continuous_MLM_pred.csv,30170,Nucleated red blood cell count,blood,94915,0.087180569964149,0.103250885688103
+test_f.30180.0.0_Continuous_MLM_pred.csv,30180,Lymphocyte percentage,blood,95310,0.993336293169573,0.0314896344972557
+test_f.30190.0.0_Continuous_MLM_pred.csv,30190,Monocyte percentage,blood,95194,0.986177928485779,0.0432567609127481
+test_f.30200.0.0_Continuous_MLM_pred.csv,30200,Neutrophill percentage,blood,95261,0.997090474544392,0.0296150806673934
+test_f.30210.0.0_Continuous_MLM_pred.csv,30210,Eosinophill percentage,blood,94869,0.975883656838046,0.0699676959056999
+test_f.30220.0.0_Continuous_MLM_pred.csv,30220,Basophill percentage,blood,94977,0.909341792993637,0.106547574119225
+test_f.30240.0.0_Continuous_MLM_pred.csv,30240,Reticulocyte percentage,blood,93816,0.995634882666412,0.0217937663486417
+test_f.30250.0.0_Continuous_MLM_pred.csv,30250,Reticulocyte count,blood,93826,0.994300322405171,0.0248435376956794
+test_f.30260.0.0_Continuous_MLM_pred.csv,30260,Mean reticulocyte volume,blood,93673,0.789037187683067,0.147541300142958
+test_f.30270.0.0_Continuous_MLM_pred.csv,30270,Mean sphered cell volume,blood,93827,0.828077756673165,0.137810807119572
+test_f.30280.0.0_Continuous_MLM_pred.csv,30280,Immature reticulocyte fraction,blood,93831,0.989697703614004,0.0487643523464009
+test_f.30290.0.0_Continuous_MLM_pred.csv,30290,High light scatter reticulocyte percentage,blood,93907,0.996203547126417,0.0218162468220748
+test_f.30300.0.0_Continuous_MLM_pred.csv,30300,High light scatter reticulocyte count,blood,93787,0.995301440780088,0.0316903270083568
+test_f.30510.0.0_Continuous_MLM_pred.csv,30510,Creatinine (enzymatic) in urine,urine,96497,0.800194661803824,0.206928054661821
+test_f.30520.0.0_Continuous_MLM_pred.csv,30520,Potassium in urine,urine,96667,0.756209522471064,0.224587566155696
+test_f.30530.0.0_Continuous_MLM_pred.csv,30530,Sodium in urine,urine,96563,0.654151892974322,0.271040305808097
+test_f.30610.0.0_Continuous_MLM_pred.csv,30610,Alkaline phosphatase,blood,93570,0.488877355535062,0.218906513479077
+test_f.30620.0.0_Continuous_MLM_pred.csv,30620,Alanine aminotransferase,blood,93191,0.803748991267266,0.171176427100167
+test_f.30640.0.0_Continuous_MLM_pred.csv,30640,Apolipoprotein B,blood,93432,0.968382237979555,0.0764617344753604
+test_f.30650.0.0_Continuous_MLM_pred.csv,30650,Aspartate aminotransferase,blood,92986,0.736280199195249,0.149281059410162
+test_f.30670.0.0_Continuous_MLM_pred.csv,30670,Urea,blood,93563,0.572582913251265,0.207214979047091
+test_f.30690.0.0_Continuous_MLM_pred.csv,30690,Cholesterol,blood,93873,0.983985202346452,0.047951074564464
+test_f.30700.0.0_Continuous_MLM_pred.csv,30700,Creatinine,blood,93663,0.776856516652329,0.135270113710392
+test_f.30710.0.0_Continuous_MLM_pred.csv,30710,C-reactive protein,blood,92656,0.552541924604791,0.230135644358958
+test_f.30720.0.0_Continuous_MLM_pred.csv,30720,Cystatin C,blood,93507,0.714470969761247,0.153934984351166
+test_f.30730.0.0_Continuous_MLM_pred.csv,30730,Gamma glutamyltransferase,blood,92995,0.624453988767375,0.207663972810516
+test_f.30740.0.0_Continuous_MLM_pred.csv,30740,Fasting blood glucose,blood,85007,0.289950622709603,0.166140269517098
+test_f.30750.0.0_Continuous_MLM_pred.csv,30750,HbA1c,blood,92170,0.544099455768829,0.176877502555297
+test_f.30760.0.0_Continuous_MLM_pred.csv,30760,HDL cholesterol,blood,85913,0.924631866167714,0.107057131001088
+test_f.30770.0.0_Continuous_MLM_pred.csv,30770,IGF-1,blood,93288,0.469355105038901,0.233794901632938
+test_f.30780.0.0_Continuous_MLM_pred.csv,30780,LDL direct,blood,93704,0.988829765419991,0.0418257687549361
+test_f.30840.0.0_Continuous_MLM_pred.csv,30840,Total bilirubin,blood,92641,0.434280012874691,0.262674114432846
+test_f.30870.0.0_Continuous_MLM_pred.csv,30870,Triglycerides,blood,93205,0.804081288715212,0.199103391350595
+test_f.30880.0.0_Continuous_MLM_pred.csv,30880,Urate,blood,93760,0.732109270602907,0.201898457790673
+test_f.48.0.0_Continuous_MLM_pred.csv,48,Waist circumference,Physical measures,99998,0.905404029331044,0.116999837596975
+test_f.864.0.0_Integer_MLM_pred.csv,864,Number of days/week walked 10+ minutes,physical activity,98420,0.561712704769135,0.460737517099393
+test_f.874.0.0_Integer_MLM_pred.csv,874,Duration of walks,physical activity,84182,0.37015317221292,0.302038209618956
+test_f.884.0.0_Integer_MLM_pred.csv,884,Number of days/week of moderate physical activity 10+ minutes,physical activity,95102,0.589856319624635,0.537517364270554
+test_f.904.0.0_Integer_MLM_pred.csv,904,Number of days/week of vigorous physical activity 10+ minutes,physical activity,94943,0.632568398230966,0.433516331151018
+test_SBP_Continuous_MLM_pred.csv,,SBP,,94415,0.77665401472896,0.167649902483636
